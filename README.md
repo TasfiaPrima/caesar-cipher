@@ -8,6 +8,7 @@ Encryption with Caesar code is when a same letter is replaced with only one othe
 further in the alphabet.
 
 Plain Alphabet	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 Caesar Alphabet (+3)	DEFGHIJKLMNOPQRSTUVWXYZABC
 
 Another way to crypt, more mathematical, note A=0, B=1, ..., Z=25, and add a constant (the shift), then the result modulo 26 
